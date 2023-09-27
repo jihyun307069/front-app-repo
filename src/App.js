@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            dhkim-pipeline success ~~ 
+            EKS Demo Blog version 1.1 
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
